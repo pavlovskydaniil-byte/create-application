@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@config "../tailwind.config.ts";
+
+html {
+    overflow-y: hidden;
+  }
